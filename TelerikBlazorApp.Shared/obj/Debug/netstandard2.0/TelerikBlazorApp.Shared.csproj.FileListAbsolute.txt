@@ -1,0 +1,9 @@
+C:\Users\dsheneman\Documents\Blazor\TelerikBlazorApp\TelerikBlazorApp.Shared\bin\Debug\netstandard2.0\TelerikBlazorApp.Shared.deps.json
+C:\Users\dsheneman\Documents\Blazor\TelerikBlazorApp\TelerikBlazorApp.Shared\bin\Debug\netstandard2.0\TelerikBlazorApp.Shared.dll
+C:\Users\dsheneman\Documents\Blazor\TelerikBlazorApp\TelerikBlazorApp.Shared\bin\Debug\netstandard2.0\TelerikBlazorApp.Shared.pdb
+C:\Users\dsheneman\Documents\Blazor\TelerikBlazorApp\TelerikBlazorApp.Shared\obj\Debug\netstandard2.0\TelerikBlazorApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\dsheneman\Documents\Blazor\TelerikBlazorApp\TelerikBlazorApp.Shared\obj\Debug\netstandard2.0\TelerikBlazorApp.Shared.AssemblyInfoInputs.cache
+C:\Users\dsheneman\Documents\Blazor\TelerikBlazorApp\TelerikBlazorApp.Shared\obj\Debug\netstandard2.0\TelerikBlazorApp.Shared.AssemblyInfo.cs
+C:\Users\dsheneman\Documents\Blazor\TelerikBlazorApp\TelerikBlazorApp.Shared\obj\Debug\netstandard2.0\TelerikBlazorApp.Shared.dll
+C:\Users\dsheneman\Documents\Blazor\TelerikBlazorApp\TelerikBlazorApp.Shared\obj\Debug\netstandard2.0\TelerikBlazorApp.Shared.pdb
+C:\Users\dsheneman\Documents\Blazor\TelerikBlazorApp\TelerikBlazorApp.Shared\obj\Debug\netstandard2.0\TelerikBlazorApp.Shared.csprojAssemblyReference.cache

@@ -1,0 +1,76 @@
+C:\Users\dsheneman\.nuget\packages\microsoft.aspnetcore.blazor\3.0.0-preview5-19227-01\lib\netstandard2.0\Microsoft.AspNetCore.Blazor.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.aspnetcore.components\3.0.0-preview5-19227-01\lib\netstandard2.0\Microsoft.AspNetCore.Components.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.aspnetcore.components.browser\3.0.0-preview5-19227-01\lib\netstandard2.0\Microsoft.AspNetCore.Components.Browser.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.codeanalysis.common\2.10.0\lib\netstandard1.3\Microsoft.CodeAnalysis.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.codeanalysis.csharp\2.10.0\lib\netstandard1.3\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.csharp\4.5.0\lib\netstandard2.0\Microsoft.CSharp.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.dotnet.internalabstractions\1.0.0\lib\netstandard1.3\Microsoft.DotNet.InternalAbstractions.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.dotnet.platformabstractions\2.1.0\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.extensions.dependencyinjection\3.0.0-preview5.19227.9\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\3.0.0-preview5.19227.9\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.extensions.dependencymodel\2.1.0\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.jsinterop\3.0.0-preview5.19227.9\lib\netstandard2.0\Microsoft.JSInterop.dll
+C:\Users\dsheneman\.nuget\packages\mono.webassembly.interop\3.0.0-preview5.19227.9\lib\netstandard2.0\Mono.WebAssembly.Interop.dll
+C:\Users\dsheneman\.nuget\packages\newtonsoft.json\12.0.1\lib\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\dsheneman\.nuget\packages\system.appcontext\4.3.0\lib\netstandard1.6\System.AppContext.dll
+C:\Users\dsheneman\.nuget\packages\system.buffers\4.3.0\lib\netstandard1.1\System.Buffers.dll
+C:\Users\dsheneman\.nuget\packages\system.collections.concurrent\4.3.0\lib\netstandard1.3\System.Collections.Concurrent.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.collections.immutable\1.5.0\lib\netstandard2.0\System.Collections.Immutable.dll
+C:\Users\dsheneman\.nuget\packages\system.componentmodel.annotations\4.6.0-preview5.19224.8\lib\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\dsheneman\.nuget\packages\system.data.common\4.3.0\lib\netstandard1.2\System.Data.Common.dll
+C:\Users\dsheneman\.nuget\packages\system.diagnostics.stacktrace\4.3.0\lib\netstandard1.3\System.Diagnostics.StackTrace.dll
+C:\Users\dsheneman\.nuget\packages\system.dynamic.runtime\4.3.0\lib\netstandard1.3\System.Dynamic.Runtime.dll
+C:\Users\dsheneman\.nuget\packages\system.io.filesystem.primitives\4.3.0\lib\netstandard1.3\System.IO.FileSystem.Primitives.dll
+C:\Users\dsheneman\.nuget\packages\system.linq\4.3.0\lib\netstandard1.6\System.Linq.dll
+C:\Users\dsheneman\.nuget\packages\system.linq.expressions\4.3.0\lib\netstandard1.6\System.Linq.Expressions.dll
+C:\Users\dsheneman\.nuget\packages\system.linq.queryable\4.3.0\lib\netstandard1.3\System.Linq.Queryable.dll
+C:\Users\dsheneman\.nuget\packages\system.objectmodel\4.3.0\lib\netstandard1.3\System.ObjectModel.dll
+C:\Users\dsheneman\.nuget\packages\system.reflection.emit\4.3.0\lib\netstandard1.3\System.Reflection.Emit.dll
+C:\Users\dsheneman\.nuget\packages\system.reflection.emit.ilgeneration\4.3.0\lib\netstandard1.3\System.Reflection.Emit.ILGeneration.dll
+C:\Users\dsheneman\.nuget\packages\system.reflection.emit.lightweight\4.3.0\lib\netstandard1.3\System.Reflection.Emit.Lightweight.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.reflection.metadata\1.6.0\lib\netstandard2.0\System.Reflection.Metadata.dll
+C:\Users\dsheneman\.nuget\packages\system.reflection.typeextensions\4.3.0\lib\netstandard1.5\System.Reflection.TypeExtensions.dll
+C:\Users\dsheneman\.nuget\packages\system.runtime.loader\4.3.0\lib\netstandard1.5\System.Runtime.Loader.dll
+C:\Users\dsheneman\.nuget\packages\system.runtime.numerics\4.3.0\lib\netstandard1.3\System.Runtime.Numerics.dll
+C:\Users\dsheneman\.nuget\packages\system.security.cryptography.openssl\4.3.0\lib\netstandard1.6\System.Security.Cryptography.OpenSsl.dll
+C:\Users\dsheneman\.nuget\packages\system.security.cryptography.primitives\4.3.0\lib\netstandard1.3\System.Security.Cryptography.Primitives.dll
+C:\Users\dsheneman\.nuget\packages\system.text.regularexpressions\4.3.0\lib\netstandard1.6\System.Text.RegularExpressions.dll
+C:\Users\dsheneman\.nuget\packages\system.threading\4.3.0\lib\netstandard1.3\System.Threading.dll
+C:\Users\dsheneman\.nuget\packages\system.threading.tasks.extensions\4.3.0\lib\netstandard1.0\System.Threading.Tasks.Extensions.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.threading.tasks.parallel\4.3.0\lib\netstandard1.3\System.Threading.Tasks.Parallel.dll
+C:\Users\dsheneman\.nuget\packages\system.threading.thread\4.3.0\lib\netstandard1.3\System.Threading.Thread.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.valuetuple\4.3.0\lib\netstandard1.0\System.ValueTuple.dll
+C:\Users\dsheneman\.nuget\packages\system.xml.readerwriter\4.3.0\lib\netstandard1.3\System.Xml.ReaderWriter.dll
+C:\Users\dsheneman\.nuget\packages\system.xml.xdocument\4.3.0\lib\netstandard1.3\System.Xml.XDocument.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.xml.xmldocument\4.3.0\lib\netstandard1.3\System.Xml.XmlDocument.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.xml.xpath\4.3.0\lib\netstandard1.3\System.Xml.XPath.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.xml.xpath.xdocument\4.3.0\lib\netstandard1.3\System.Xml.XPath.XDocument.dll
+C:\Users\dsheneman\.nuget\packages\telerik.datasource\1.0.0\lib\netstandard2.0\Telerik.DataSource.dll
+C:\Users\dsheneman\.nuget\packages\telerik.ui.for.blazor\1.0.0\lib\netstandard2.0\Telerik.Blazor.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.codeanalysis.common\2.10.0\lib\netstandard1.3\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.codeanalysis.common\2.10.0\lib\netstandard1.3\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.codeanalysis.common\2.10.0\lib\netstandard1.3\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.codeanalysis.common\2.10.0\lib\netstandard1.3\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.codeanalysis.common\2.10.0\lib\netstandard1.3\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.codeanalysis.common\2.10.0\lib\netstandard1.3\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.codeanalysis.common\2.10.0\lib\netstandard1.3\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.codeanalysis.common\2.10.0\lib\netstandard1.3\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.codeanalysis.common\2.10.0\lib\netstandard1.3\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.codeanalysis.common\2.10.0\lib\netstandard1.3\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.codeanalysis.common\2.10.0\lib\netstandard1.3\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.codeanalysis.common\2.10.0\lib\netstandard1.3\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.codeanalysis.common\2.10.0\lib\netstandard1.3\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.codeanalysis.csharp\2.10.0\lib\netstandard1.3\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.codeanalysis.csharp\2.10.0\lib\netstandard1.3\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.codeanalysis.csharp\2.10.0\lib\netstandard1.3\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.codeanalysis.csharp\2.10.0\lib\netstandard1.3\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.codeanalysis.csharp\2.10.0\lib\netstandard1.3\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.codeanalysis.csharp\2.10.0\lib\netstandard1.3\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.codeanalysis.csharp\2.10.0\lib\netstandard1.3\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.codeanalysis.csharp\2.10.0\lib\netstandard1.3\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.codeanalysis.csharp\2.10.0\lib\netstandard1.3\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.codeanalysis.csharp\2.10.0\lib\netstandard1.3\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.codeanalysis.csharp\2.10.0\lib\netstandard1.3\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.codeanalysis.csharp\2.10.0\lib\netstandard1.3\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dsheneman\.nuget\packages\microsoft.codeanalysis.csharp\2.10.0\lib\netstandard1.3\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dsheneman\Documents\Blazor\TelerikBlazorApp\TelerikBlazorApp.Shared\bin\Debug\netstandard2.0\TelerikBlazorApp.Shared.dll
